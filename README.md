@@ -1,5 +1,5 @@
 # Attributed HTML Text as native SwiftUI Component
-<img align="right" border="1" src="screen.png">
+<img align="right" border="1" src="screen.png" width="300">
 <img align="right" src="pixel.png"  width="50" height = 800>
 Of course you can use attributed strings and a UILabel and enclose all that in a SwiftUI container ...
 
